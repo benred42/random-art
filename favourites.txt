@@ -1,0 +1,12 @@
+Seed: 4222007487467182730
+color-4222007487467182730-1.png:
+  red: sin(multiply((x * y), (y * reciprocal(subtraction((x * x), cos(pi * addition(((x + y)/2), (x * invert_sign(avg(((x - y)/2), (cos(y))))))))))))
+  green: (x * (y * (x * reciprocal(cos(pi * e_pow_log(cos(pi * avg(((x - y)/2), cos(pi * power((y * y), extreme((y * y))))))))))))
+  blue: invert_sign(sin(sin(pi * cos(multiply((y * y), extreme((x * x)))))))
+
+
+Seed: 8597286611215961173
+color-8597286611215961173-0.png:
+  red: extreme(divide_by_five(cos(e_pow_log(subtraction(((x + y)/2), divide_by_five(sin(addition((x/2), invert_sign((y *power((y), reciprocal(addition((sin(x)), e_pow_log((x *sin(sin(pi *e_pow_log(reciprocal((y))))))))))))))))))))
+  green: cos(sin(pi *(y *divide_by_five(reciprocal(invert_sign(addition((x), cos(sin(pi *power((cos(x)), invert_sign((x *(sin(y))))))))))))))
+  blue: cos(pi *sin(pi *invert_sign((y *extreme(addition((y), power((cos(x)), e_pow_log(subtraction((cos(y)), power((sin(x)), power((x/2), divide_by_five(e_pow_log((x *reciprocal((y * y))))))))))))))))
